@@ -18,6 +18,9 @@ time TIME(0)
 Adding JAR File to Project Structure:
 File > Project Structure > Dependencies > Add Jar file > locate the jar file in the King_sQuest folder (.idea > lib > mysql-connector-j-8.2.0.jar) > Apply > Ok
 
+Marking the directory as the source root:
+Right click the res & src folder > Mark directory as > Sources root
+
 PROPONENTS:
 - Landicho, Alessandra Marie M.
 - Mendoza, Christian Paul E.
